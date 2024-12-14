@@ -53,7 +53,7 @@ const Footer = () => {
             <FaFacebook size={24} />
           </a>
           <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary">
-            <FaTwitter size={24} />
+            <FaTwitter size={25} />
           </a>
           <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-primary">
             <FaInstagram size={24} />
